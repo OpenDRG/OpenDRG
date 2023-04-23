@@ -33,11 +33,11 @@
 |CHS-DRG 1.1 烟台2023细分组|647组| 山东省烟台市|
 |CHS-DRG 1.0 修订版 常州2022细分组|740组| 江苏省常州市|
 
-&emsp;&emsp;江苏徐州、四川自贡、河南开封、广东佛山、广西等地区版本的分组器正在开发，将逐步发布，敬请关注
+&emsp;&emsp;宁夏银川、福建南平、江苏徐州、四川自贡、河南开封、广东佛山、广西等地区版本的分组器正在开发，将逐步发布，敬请关注
 
 ## 子项目介绍
 ### DRG_Rules
-&emsp;&emsp;国家医保局以及浙江、北京等省医保局发布的分组方案文件，经过结构化处理后形成的知识库
+&emsp;&emsp;国家医保局CHS-DRG、浙江ZJ-DRG，以及北京等省医保局发布的分组方案文件，经过结构化处理后形成的知识库
 ### DRG_Datas
 &emsp;&emsp;DRG分组相关的各类数据集，包括不同版本的ICD编码、各地医保局的分组权重及支付标准、各类医院病案数据文件等
 ### DRG_Java/DRG_Csharp/DRG_Python/DRG_JavaScript
@@ -45,7 +45,7 @@
 ### opendrg.github.io
 &emsp;&emsp;分组器演示平台，一个简单的网页，集成了JavaScript版本的分组器，可以按不同省市的分组方案对病案进行分组，并显示分组结果、支付信息及统计指标等
 
-## 分组器演示平台 
+## DRG分组器演示平台 
 * 网址：[opendrg.github.io](https://opendrg.github.io/)
 
 * 网页加载会有点慢，因为DRG规则文件较大，请耐心等待
@@ -54,6 +54,7 @@
 
 * 如果觉得网页打开慢，或者担心信息泄露，可以点击以下链接，下载网页源码，解压后再双击index.html打开页面即可使用（之后无需再访问网络）
 
+## DRG分组器下载（网页版）
 https://github.com/OpenDRG/OpenDRG.github.io/archive/refs/heads/main.zip
 
 ## 联系开发团队
