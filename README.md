@@ -45,8 +45,9 @@
 |新疆|乌鲁木齐市|CHS-DRG 1.1|2022年|718组|是|[wlmq_2022](https://opendrg.github.io?type=wlmq_2022)|
 |新疆|生产建设<br>兵团|CHS-DRG 1.1|2022年|635组|是|[xjbt_2022](https://opendrg.github.io?type=xjbt_2022)|
 |黑龙江|哈尔滨|CHS-DRG 1.1|2022年|668组|是|[haerbin_2022](https://opendrg.github.io?type=haerbin_2022)|
+|河南|安阳|CHS-DRG 1.1|2021年|802组|是|[anyang_2021](https://opendrg.github.io?type=anyang_2021)|
 
-&emsp;&emsp;江苏徐州、四川自贡、河南开封、安阳、辽宁沈阳、广东佛山等地区版本的分组器正在开发，将逐步发布，敬请关注
+&emsp;&emsp;江苏徐州、四川自贡、河南开封、辽宁沈阳、广东佛山等地区版本的分组器正在开发，将逐步发布，敬请关注
 
 ## 子项目介绍
 ### DRG_Rules
