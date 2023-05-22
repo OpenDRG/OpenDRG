@@ -72,4 +72,4 @@
 https://github.com/OpenDRG/OpenDRG.github.io/archive/refs/heads/main.zip
 
 ## 联系开发团队
-请发邮件至14463966@qq.com
+请发邮件至OpenDRG@hotmail.com
