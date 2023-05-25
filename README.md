@@ -26,6 +26,7 @@
 |江苏|泰州|CHS-DRG 1.1|2022年|758组|是|[taizhou_2022](https://opendrg.github.io?type=taizhou_2022)|
 |江苏|无锡|CHS-DRG 1.1|2022年|599组|是|[wuxi_2022](https://opendrg.github.io?type=wuxi_2022)|
 |江苏|常州|CHS-DRG 1.1|2022年|740组|是|[changzhou_2022](https://opendrg.github.io?type=changzhou_2022)|
+|山东|济南|CHS-DRG 1.1|2022年|887组|否|[jinan_2023](https://opendrg.github.io?type=jinan_2023)|
 |山东|临沂|CHS-DRG 1.1|2022年|628组|否|[linyi_2022](https://opendrg.github.io?type=linyi_2022)|
 |山东|青岛|CHS-DRG 1.1|2023年|682组|是|[qingdao_2023](https://opendrg.github.io?type=qingdao_2023)|
 |山东|聊城|CHS-DRG 1.1|2022年|683组|是|[liaocheng_2022](https://opendrg.github.io?type=liaocheng_2022)|
@@ -47,7 +48,7 @@
 |黑龙江|哈尔滨|CHS-DRG 1.1|2022年|668组|是|[haerbin_2022](https://opendrg.github.io?type=haerbin_2022)|
 |河南|安阳|CHS-DRG 1.1|2021年|802组|是|[anyang_2021](https://opendrg.github.io?type=anyang_2021)|
 
-&emsp;&emsp;山东济南、江苏徐州、四川自贡、河南开封、辽宁沈阳、广东佛山等地区版本的分组器正在开发，将逐步发布，敬请关注
+&emsp;&emsp;广东佛山、安徽合肥、江苏徐州、四川自贡、河南开封、辽宁沈阳等地区版本的分组器正在开发，将逐步发布，敬请关注
 
 ## 子项目介绍
 ### DRG_Rules
