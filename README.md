@@ -50,7 +50,7 @@
 |广东|佛山|CHS-DRG 1.1|2022年|848组|是|[foshan_2022](https://opendrg.github.io?type=foshan_2022)|
 |安徽|合肥|CHS-DRG 1.1|2023年|851组|是|[hefei_2023](https://opendrg.github.io?type=hefei_2023)|
 
-&emsp;&emsp;江苏徐州、四川自贡、河南开封、辽宁沈阳等地区版本的分组器正在开发，将逐步发布，敬请关注
+&emsp;&emsp;江苏徐州、四川自贡、河南开封、辽宁沈阳等地区版本的分组器正在开发，将逐步发布，敬请关注！
 
 ## 子项目介绍
 ### DRG_Rules
