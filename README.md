@@ -49,7 +49,7 @@
 |河南|安阳|CHS-DRG 1.1|2021年|802组|是|[anyang_2021](https://opendrg.github.io?type=anyang_2021)|
 |广东|佛山|CHS-DRG 1.1|2022年|848组|是|[foshan_2022](https://opendrg.github.io?type=foshan_2022)|
 |安徽|合肥|CHS-DRG 1.1|2023年|851组|是|[hefei_2023](https://opendrg.github.io?type=hefei_2023)|
-|河北|邯郸|CHS-DRG 1.1|2023年|619组|是|[handan_2022](https://opendrg.github.io?type=handan_2022)|
+|河北|邯郸|CHS-DRG 1.1|2022年|619组|是|[handan_2022](https://opendrg.github.io?type=handan_2022)|
 
 &emsp;&emsp;沈阳、鞍山、长春、绥化、郴州、太原、晋城、长治、六安、泉州、徐州、西宁、开封、周口、上饶、天津、重庆等地区版本的分组器正在开发，将逐步发布，敬请关注
 
