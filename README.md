@@ -21,6 +21,7 @@
 |浙江|-|ZJ-DRG 1.1|2022年|1006组|是|[zhejiang_2022](https://opendrg.github.io?type=zhejiang_2022)|
 |广西|-|CHS-DRG 1.1|2022年|984组|是|[guangxi_2022](https://opendrg.github.io?type=guangxi_2022)|
 |云南|-|CHS-DRG 1.1|2022年|677组|是|[yunnan_2022](https://opendrg.github.io?type=yunnan_2022)|
+|云南|-|CHS-DRG 1.1|2023年|762组|是|[yunnan_2023](https://opendrg.github.io?type=yunnan_2023)|
 |江苏|盐城|CHS-DRG 1.1|2023年|628组|否|[yancheng_2023](https://opendrg.github.io?type=yancheng_2023)|
 |江苏|苏州|CHS-DRG 1.1|2023年|667组|是|[suzhou_2023](https://opendrg.github.io?type=suzhou_2023)|
 |江苏|泰州|CHS-DRG 1.1|2022年|758组|是|[taizhou_2022](https://opendrg.github.io?type=taizhou_2022)|
