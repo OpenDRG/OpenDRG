@@ -27,6 +27,7 @@
 |江苏|泰州|CHS-DRG 1.1|2022年|758组|是|[taizhou_2022](https://opendrg.github.io?type=taizhou_2022)|
 |江苏|无锡|CHS-DRG 1.1|2022年|599组|是|[wuxi_2022](https://opendrg.github.io?type=wuxi_2022)|
 |江苏|常州|CHS-DRG 1.1|2022年|740组|是|[changzhou_2022](https://opendrg.github.io?type=changzhou_2022)|
+|江苏|南通|CHS-DRG 1.1|2022年|603组|是|[nantong_2022](https://opendrg.github.io?type=nantong_2022)|
 |山东|济南|CHS-DRG 1.1|2022年|887组|否|[jinan_2023](https://opendrg.github.io?type=jinan_2023)|
 |山东|临沂|CHS-DRG 1.1|2022年|628组|否|[linyi_2022](https://opendrg.github.io?type=linyi_2022)|
 |山东|青岛|CHS-DRG 1.1|2023年|682组|是|[qingdao_2023](https://opendrg.github.io?type=qingdao_2023)|
@@ -43,6 +44,7 @@
 |湖南|长沙市<br>株洲市<br>湘潭市<br>衡阳市|CHS-DRG 1.1|2023年|737组|是|[changsha_2023](https://opendrg.github.io?type=changsha_2023)|
 |山西|临汾|CHS-DRG 1.1|2022年|645组|是|[linfen_2022](https://opendrg.github.io?type=linfen_2022)|
 |甘肃|兰州|CHS-DRG 1.1|2023年|794组|是|[lanzhou_2023](https://opendrg.github.io?type=lanzhou_2023)|
+|甘肃|庆阳|CHS-DRG 1.1|2023年|630组|是|[qingyang_2023](https://opendrg.github.io?type=qingyang_2023)|
 |宁夏|银川|CHS-DRG 1.1|2023年|639组|是|[yinchuan_2023](https://opendrg.github.io?type=yinchuan_2023)|
 |新疆|乌鲁木齐市|CHS-DRG 1.1|2022年|718组|是|[wlmq_2022](https://opendrg.github.io?type=wlmq_2022)|
 |新疆|生产建设<br>兵团|CHS-DRG 1.1|2022年|635组|是|[xjbt_2022](https://opendrg.github.io?type=xjbt_2022)|
