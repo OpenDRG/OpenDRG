@@ -50,13 +50,14 @@
 |新疆|生产建设<br>兵团|CHS-DRG 1.1|2022年|635组|是|[xjbt_2022](https://opendrg.github.io?type=xjbt_2022)|
 |黑龙江|哈尔滨|CHS-DRG 1.1|2022年|668组|是|[haerbin_2022](https://opendrg.github.io?type=haerbin_2022)|
 |河南|安阳|CHS-DRG 1.1|2021年|802组|是|[anyang_2021](https://opendrg.github.io?type=anyang_2021)|
+|河南|周口|CHS-DRG 1.1|2023年|802组|是|[zhoukou_2023](https://opendrg.github.io?type=zhoukou_2023)|
 |广东|佛山|CHS-DRG 1.1|2022年|848组|是|[foshan_2022](https://opendrg.github.io?type=foshan_2022)|
 |安徽|合肥|CHS-DRG 1.1|2023年|851组|是|[hefei_2023](https://opendrg.github.io?type=hefei_2023)|
 |河北|邯郸|CHS-DRG 1.1|2022年|619组|是|[handan_2022](https://opendrg.github.io?type=handan_2022)|
 |重庆|-|CHS-DRG 1.0|2022年|792组|是|[chongqing_2022](https://opendrg.github.io?type=chongqing_2022)|
 |江西|南昌|CHS-DRG 1.1|2023年|825组|是|[nanchang_2023](https://opendrg.github.io?type=nanchang_2023)|
 
-&emsp;&emsp;沈阳、鞍山、长春、绥化、郴州、太原、晋城、长治、六安、泉州、徐州、西宁、开封、周口、上饶、天津等地区版本的分组器正在开发，将逐步发布，敬请关注
+&emsp;&emsp;沈阳、鞍山、长春、绥化、郴州、太原、晋城、长治、六安、泉州、徐州、西宁、开封、上饶、天津等地区版本的分组器正在开发，将逐步发布，敬请关注
 
 ## 子项目介绍
 ### DRG_Rules
