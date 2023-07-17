@@ -29,7 +29,7 @@
 |江苏|常州|CHS-DRG 1.1|2022年|740组|是|[changzhou_2022](https://opendrg.github.io?type=changzhou_2022)|
 |江苏|南通|CHS-DRG 1.1|2022年|603组|是|[nantong_2022](https://opendrg.github.io?type=nantong_2022)|
 |山东|济南|CHS-DRG 1.1|2022年|887组|否|[jinan_2023](https://opendrg.github.io?type=jinan_2023)|
-|山东|临沂|CHS-DRG 1.1|2022年|628组|否|[linyi_2022](https://opendrg.github.io?type=linyi_2022)|
+|山东|临沂|CHS-DRG 1.1|2023年|628组|否|[linyi_2022](https://opendrg.github.io?type=linyi_2023)|
 |山东|青岛|CHS-DRG 1.1|2023年|682组|是|[qingdao_2023](https://opendrg.github.io?type=qingdao_2023)|
 |山东|聊城|CHS-DRG 1.1|2022年|683组|是|[liaocheng_2022](https://opendrg.github.io?type=liaocheng_2022)|
 |山东|烟台|CHS-DRG 1.1|2023年|647组|是|[yantai_2023](https://opendrg.github.io?type=yantai_2023)|
@@ -50,7 +50,7 @@
 |新疆|生产建设<br>兵团|CHS-DRG 1.1|2022年|635组|是|[xjbt_2022](https://opendrg.github.io?type=xjbt_2022)|
 |黑龙江|哈尔滨|CHS-DRG 1.1|2022年|668组|是|[haerbin_2022](https://opendrg.github.io?type=haerbin_2022)|
 |河南|安阳|CHS-DRG 1.1|2021年|802组|是|[anyang_2021](https://opendrg.github.io?type=anyang_2021)|
-|河南|周口|CHS-DRG 1.1|2023年|802组|是|[zhoukou_2023](https://opendrg.github.io?type=zhoukou_2023)|
+|河南|周口|CHS-DRG 1.1|2023年|799组|是|[zhoukou_2023](https://opendrg.github.io?type=zhoukou_2023)|
 |广东|佛山|CHS-DRG 1.1|2022年|848组|是|[foshan_2022](https://opendrg.github.io?type=foshan_2022)|
 |安徽|合肥|CHS-DRG 1.1|2023年|851组|是|[hefei_2023](https://opendrg.github.io?type=hefei_2023)|
 |河北|邯郸|CHS-DRG 1.1|2022年|619组|是|[handan_2022](https://opendrg.github.io?type=handan_2022)|
