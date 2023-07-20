@@ -29,14 +29,14 @@
 |江苏|常州|CHS-DRG 1.1|2022年|740组|是|[changzhou_2022](https://opendrg.github.io?type=changzhou_2022)|
 |江苏|南通|CHS-DRG 1.1|2022年|603组|是|[nantong_2022](https://opendrg.github.io?type=nantong_2022)|
 |山东|济南|CHS-DRG 1.1|2022年|887组|否|[jinan_2023](https://opendrg.github.io?type=jinan_2023)|
-|山东|临沂|CHS-DRG 1.1|2023年|628组|否|[linyi_2022](https://opendrg.github.io?type=linyi_2023)|
+|山东|临沂|CHS-DRG 1.1|2023年|628组|否|[linyi_2023](https://opendrg.github.io?type=linyi_2023)|
 |山东|青岛|CHS-DRG 1.1|2023年|682组|是|[qingdao_2023](https://opendrg.github.io?type=qingdao_2023)|
 |山东|聊城|CHS-DRG 1.1|2022年|683组|是|[liaocheng_2022](https://opendrg.github.io?type=liaocheng_2022)|
 |山东|烟台|CHS-DRG 1.1|2023年|647组|是|[yantai_2023](https://opendrg.github.io?type=yantai_2023)|
 |福建|福州|CHS-DRG 1.1|2022年|563组|是|[fuzhou_2022](https://opendrg.github.io?type=fuzhou_2022)|
 |福建|南平|CHS-DRG 1.1|2023年|795组|是|[nanping_2023](https://opendrg.github.io?type=nanping_2023)|
 |陕西|西安|CHS-DRG 1.0|2020年|618组|否|[xian_2020](https://opendrg.github.io?type=xian_2020)|
-|陕西|铜川|CHS-DRG 1.1|2022年|628组|否|[tongchuan_2022](https://opendrg.github.io?type=tongchuan_2022)|
+|陕西|铜川|CHS-DRG 1.1|2022年|628组|否|[tongchuan_2023](https://opendrg.github.io?type=tongchuan_2023)|
 |贵州|六盘水|CHS-DRG 1.1|2022年|628组|否|[chs_drg_11](https://opendrg.github.io?type=chs_drg_11)|
 |贵州|铜仁|CHS-DRG 1.1|2022年|628组|否|[chs_drg_11](https://opendrg.github.io?type=chs_drg_11)|
 |四川|成都|CHS-DRG 1.0|2022年|618组|否|[chengdu_2022](https://opendrg.github.io?type=chengdu_2022)|
