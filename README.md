@@ -49,6 +49,7 @@
 |新疆|乌鲁木齐市|CHS-DRG 1.1|2022年|718组|是|[wlmq_2022](https://opendrg.github.io?type=wlmq_2022)|
 |新疆|生产建设<br>兵团|CHS-DRG 1.1|2022年|635组|是|[xjbt_2022](https://opendrg.github.io?type=xjbt_2022)|
 |黑龙江|哈尔滨|CHS-DRG 1.1|2022年|668组|是|[haerbin_2022](https://opendrg.github.io?type=haerbin_2022)|
+|吉林|吉林|CHS-DRG 1.1|2022年|625组|是|[jilin_2022](https://opendrg.github.io?type=jilin_2022)|
 |河南|安阳|CHS-DRG 1.1|2021年|802组|是|[anyang_2021](https://opendrg.github.io?type=anyang_2021)|
 |河南|周口|CHS-DRG 1.1|2023年|799组|是|[zhoukou_2023](https://opendrg.github.io?type=zhoukou_2023)|
 |广东|佛山|CHS-DRG 1.1|2022年|848组|是|[foshan_2022](https://opendrg.github.io?type=foshan_2022)|
