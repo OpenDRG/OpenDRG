@@ -42,6 +42,8 @@
 |四川|成都|CHS-DRG 1.0|2022年|618组|否|[chengdu_2022](https://opendrg.github.io?type=chengdu_2022)|
 |湖北|武汉|CHS-DRG 1.0|2022年|660组|是|[wuhan_2022](https://opendrg.github.io?type=wuhan_2022)|
 |湖南|长沙市<br>株洲市<br>湘潭市<br>衡阳市|CHS-DRG 1.1|2023年|737组|是|[changsha_2023](https://opendrg.github.io?type=changsha_2023)|
+|山西|太原|CHS-DRG 1.1|2023年|593组|是|[taiyuan_2023](https://opendrg.github.io?type=taiyuan_2023)|
+|山西|长治|CHS-DRG 1.1|2022年|653组|是|[changzhi_2022](https://opendrg.github.io?type=changzhi_2022)|
 |山西|临汾|CHS-DRG 1.1|2022年|645组|是|[linfen_2022](https://opendrg.github.io?type=linfen_2022)|
 |甘肃|兰州|CHS-DRG 1.1|2023年|794组|是|[lanzhou_2023](https://opendrg.github.io?type=lanzhou_2023)|
 |甘肃|庆阳|CHS-DRG 1.1|2023年|630组|是|[qingyang_2023](https://opendrg.github.io?type=qingyang_2023)|
