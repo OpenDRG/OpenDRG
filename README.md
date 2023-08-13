@@ -4,7 +4,7 @@
 
 新的分组器演示平台，访问更快：[demo.OpenDRG.cn](https://demo.opendrg.cn/)
 
-![image](https://github.com/OpenDRG/OpenDRG/blob/main/mainpage.png)
+![image](https://github.com/OpenDRG/OpenDRG/blob/main/mainpage.jpg)
 
 ## 业务背景
 
