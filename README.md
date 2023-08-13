@@ -1,9 +1,10 @@
 # OpenDRG的目标是成为国家医保局CHS-DRG的开源实现，就像OpenJDK是Java SE的开源实现一样
 
-## 官方网站上线
-[OpenDRG.CN](https://opendrg.cn/)
+## 官方网站上线&emsp;[OpenDRG.cn](https://opendrg.cn/)
 
-新的分组器演示平台，访问更快：[DEMO.OpenDRG.CN](https://demo.opendrg.cn/)
+新的分组器演示平台，访问更快：[demo.OpenDRG.cn](https://demo.opendrg.cn/)
+
+![image](https://github.com/OpenDRG/OpenDRG/blob/main/mainpage.png)
 
 ## 业务背景
 
