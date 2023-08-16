@@ -43,6 +43,7 @@
 |山东|烟台|CHS-DRG 1.1|2023年|647组|是|[yantai_2023](https://opendrg.github.io?type=yantai_2023)|
 |福建|福州|CHS-DRG 1.1|2022年|563组|是|[fuzhou_2022](https://opendrg.github.io?type=fuzhou_2022)|
 |福建|南平|CHS-DRG 1.1|2023年|795组|是|[nanping_2023](https://opendrg.github.io?type=nanping_2023)|
+|福建|泉州|CHS-DRG 1.1|2023年|612组|是|[nanping_2023](https://opendrg.github.io?type=quanzhou_2023)|
 |陕西|西安|CHS-DRG 1.1|2021年|628组|否|[xian_2021](https://opendrg.github.io?type=xian_2021)|
 |陕西|铜川|CHS-DRG 1.1|2022年|628组|否|[tongchuan_2023](https://opendrg.github.io?type=tongchuan_2023)|
 |贵州|六盘水|CHS-DRG 1.1|2022年|628组|否|[chs_drg_11](https://opendrg.github.io?type=chs_drg_11)|
