@@ -45,12 +45,15 @@
 |福建|南平|CHS-DRG 1.1|2023年|795组|是|[nanping_2023](https://opendrg.github.io?type=nanping_2023)|
 |福建|泉州|CHS-DRG 1.1|2023年|612组|是|[nanping_2023](https://opendrg.github.io?type=quanzhou_2023)|
 |陕西|西安|CHS-DRG 1.1|2021年|628组|否|[xian_2021](https://opendrg.github.io?type=xian_2021)|
-|陕西|铜川|CHS-DRG 1.1|2022年|628组|否|[tongchuan_2023](https://opendrg.github.io?type=tongchuan_2023)|
+|陕西|铜川|CHS-DRG 1.1|2023年|628组|否|[tongchuan_2023](https://opendrg.github.io?type=tongchuan_2023)|
+|陕西|咸阳|CHS-DRG 1.1|2023年|628组|否|[xianyang_2023](https://opendrg.github.io?type=xianyang_2023)|
+|陕西|安康|CHS-DRG 1.1|2023年|654组|否|[ankang_2023](https://opendrg.github.io?type=ankang_2023)|
 |贵州|六盘水|CHS-DRG 1.1|2022年|628组|否|[chs_drg_11](https://opendrg.github.io?type=chs_drg_11)|
 |贵州|铜仁|CHS-DRG 1.1|2022年|628组|否|[chs_drg_11](https://opendrg.github.io?type=chs_drg_11)|
 |四川|成都|CHS-DRG 1.0|2022年|618组|否|[chengdu_2022](https://opendrg.github.io?type=chengdu_2022)|
 |四川|宜宾|CHS-DRG 1.1|2023年|722组|是|[yibin_2022](https://opendrg.github.io?type=yibin_2023)|
-|四川|资阳|CHS-DRG 1.1|2023年|737组|是|[chengdu_2022](https://opendrg.github.io?type=ziyang_2023)|
+|四川|资阳|CHS-DRG 1.1|2023年|737组|是|[ziyang_2022](https://opendrg.github.io?type=ziyang_2023)|
+|四川|乐山|CHS-DRG 1.1|2023年|664组|是|[leshan_2022](https://opendrg.github.io?type=leshan_2023)|
 |湖北|武汉|CHS-DRG 1.0|2022年|660组|是|[wuhan_2022](https://opendrg.github.io?type=wuhan_2022)|
 |湖南|长沙市<br>株洲市<br>湘潭市<br>衡阳市|CHS-DRG 1.1|2023年|737组|是|[changsha_2023](https://opendrg.github.io?type=changsha_2023)|
 |山西|太原|CHS-DRG 1.1|2023年|593组|是|[taiyuan_2023](https://opendrg.github.io?type=taiyuan_2023)|
@@ -76,7 +79,7 @@
 |重庆|-|CHS-DRG 1.0|2022年|792组|是|[chongqing_2022](https://opendrg.github.io?type=chongqing_2022)|
 |江西|南昌|CHS-DRG 1.1|2023年|825组|是|[nanchang_2023](https://opendrg.github.io?type=nanchang_2023)|
 
-&emsp;&emsp;沈阳、鞍山、绥化、郴州、晋城、六安、徐州、西宁、上饶、天津、大同、克拉玛依等地区版本的分组器正在开发，将逐步发布，敬请关注
+&emsp;&emsp;沈阳、鞍山、绥化、郴州、晋城、六安、徐州、西宁、上饶、天津、大同、克拉玛依、自贡、绵阳、攀枝花等地区版本的分组器正在开发，将逐步发布，敬请关注
 
 ## 子项目介绍
 ### DRG_Rules
