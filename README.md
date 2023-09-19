@@ -60,6 +60,7 @@
 |山西|太原|CHS-DRG 1.1|2023年|593组|是|[taiyuan_2023](https://opendrg.github.io?type=taiyuan_2023)|
 |山西|长治|CHS-DRG 1.1|2022年|653组|是|[changzhi_2022](https://opendrg.github.io?type=changzhi_2022)|
 |山西|临汾|CHS-DRG 1.1|2022年|645组|是|[linfen_2022](https://opendrg.github.io?type=linfen_2022)|
+|山西|运城|CHS-DRG 1.1|2023年|690组|是|[yuncheng_2023](https://opendrg.github.io?type=yuncheng_2023)|
 |甘肃|兰州|CHS-DRG 1.1|2023年|794组|是|[lanzhou_2023](https://opendrg.github.io?type=lanzhou_2023)|
 |甘肃|庆阳|CHS-DRG 1.1|2023年|630组|是|[qingyang_2023](https://opendrg.github.io?type=qingyang_2023)|
 |宁夏|银川|CHS-DRG 1.1|2023年|639组|是|[yinchuan_2023](https://opendrg.github.io?type=yinchuan_2023)|
@@ -74,6 +75,7 @@
 |河南|漯河|CHS-DRG 1.1|2022年|810组|是|[luohe_2022](https://opendrg.github.io?type=luohe_2022)|
 |河南|周口|CHS-DRG 1.1|2023年|799组|是|[zhoukou_2023](https://opendrg.github.io?type=zhoukou_2023)|
 |河南|开封|CHS-DRG 1.1|2023年|831组|是|[kaifeng_2023](https://opendrg.github.io?type=kaifeng_2023)|
+|河南|驻马店|CHS-DRG 1.1|2023年|615组|是|[zhumadian_2023](https://opendrg.github.io?type=zhumadian_2023)|
 |广东|佛山|CHS-DRG 1.1|2022年|848组|是|[foshan_2022](https://opendrg.github.io?type=foshan_2022)|
 |安徽|合肥|CHS-DRG 1.1|2023年|851组|是|[hefei_2023](https://opendrg.github.io?type=hefei_2023)|
 |安徽|六安|CHS-DRG 1.1|2023年|650组|是|[liuan_2023](https://opendrg.github.io?type=liuan_2023)|
