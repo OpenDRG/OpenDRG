@@ -85,7 +85,7 @@
 |重庆|-|CHS-DRG 1.0|2022年|792组|是|[chongqing_2022](https://opendrg.github.io?type=chongqing_2022)|
 |江西|南昌|CHS-DRG 1.1|2023年|825组|是|[nanchang_2023](https://opendrg.github.io?type=nanchang_2023)|
 
-&emsp;&emsp;沈阳、鞍山、绥化、郴州、晋城、西宁、上饶、天津、大同、克拉玛依、自贡、绵阳、攀枝花等地区版本的分组器正在开发，将逐步发布，敬请关注
+&emsp;&emsp;沈阳、鞍山、绥化、郴州、晋城、西宁、上饶、大同、克拉玛依、自贡、绵阳、攀枝花等地区版本的分组器正在开发，将逐步发布，敬请关注
 
 ## 子项目介绍
 ### DRG_Rules
@@ -106,8 +106,15 @@
 
 * 如果觉得网页打开慢，或者担心信息泄露，可以点击以下链接，下载网页源码，解压后再双击index.html打开页面即可使用（之后无需再访问网络）
 
-## DRG分组器下载（网页版）
+## DRG分组器下载
+* 社区版
 https://github.com/OpenDRG/OpenDRG.github.io/archive/refs/heads/main.zip
+* 专业版
+下载本项目下zip文件
+
+## 使用方式
+
+下载解压后打开index.html文件
 
 ## 联系开发团队
 请发邮件至OpenDRG@hotmail.com
