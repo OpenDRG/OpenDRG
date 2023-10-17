@@ -57,6 +57,7 @@
 |四川|乐山|CHS-DRG 1.1|2023年|664组|是|[leshan_2023](https://opendrg.github.io?type=leshan_2023)|
 |四川|内江|CHS-DRG 1.1|2023年|852组|是|[neijing_2023](https://opendrg.github.io?type=neijiang_2023)|
 |四川|达州|CHS-DRG 1.1|2022年|823组|是|[dazhou_2022](https://opendrg.github.io?type=dazhou_2022)|
+|四川|巴中|CHS-DRG 1.1|2023年|593组|是|[bazhong_2023](https://opendrg.github.io?type=bazhong_2023)|
 |湖北|武汉|CHS-DRG 1.0|2022年|660组|是|[wuhan_2022](https://opendrg.github.io?type=wuhan_2022)|
 |湖南|长沙市<br>株洲市<br>湘潭市<br>衡阳市|CHS-DRG 1.1|2023年|737组|是|[changsha_2023](https://opendrg.github.io?type=changsha_2023)|
 |山西|太原|CHS-DRG 1.1|2023年|593组|是|[taiyuan_2023](https://opendrg.github.io?type=taiyuan_2023)|
