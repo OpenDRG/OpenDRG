@@ -70,6 +70,7 @@
 |新疆|乌鲁木齐市|CHS-DRG 1.1|2022年|718组|是|[wlmq_2022](https://opendrg.github.io?type=wlmq_2022)|
 |新疆|喀什市|CHS-DRG 1.1|2022年|586组|是|[kashi_2022](https://opendrg.github.io?type=kashi_2022)|
 |新疆|生产建设<br>兵团|CHS-DRG 1.1|2022年|635组|是|[xjbt_2022](https://opendrg.github.io?type=xjbt_2022)|
+|新疆|克州|CHS-DRG 1.1|2022年|637组|是|[kezhou_2023](https://opendrg.github.io?type=kezhou_2023)|
 |黑龙江|哈尔滨|CHS-DRG 1.1|2022年|668组|是|[haerbin_2022](https://opendrg.github.io?type=haerbin_2022)|
 |吉林|长春|CHS-DRG 1.1|2022年|636组|是|[jilin_2022](https://opendrg.github.io?type=changchun_2022)|
 |吉林|吉林|CHS-DRG 1.1|2022年|625组|是|[jilin_2022](https://opendrg.github.io?type=jilin_2022)|
@@ -86,7 +87,7 @@
 |重庆|-|CHS-DRG 1.0|2022年|792组|是|[chongqing_2022](https://opendrg.github.io?type=chongqing_2022)|
 |江西|南昌|CHS-DRG 1.1|2023年|825组|是|[nanchang_2023](https://opendrg.github.io?type=nanchang_2023)|
 
-&emsp;&emsp;沈阳、鞍山、绥化、郴州、晋城、西宁、上饶、大同、克拉玛依、自贡、绵阳、攀枝花等地区版本的分组器正在开发，将逐步发布，敬请关注
+&emsp;&emsp;沈阳、鞍山、绥化、郴州、晋城、西宁、上饶、大同、自贡、绵阳、攀枝花等地区版本的分组器正在开发，将逐步发布，敬请关注
 
 ## 子项目介绍
 ### DRG_Rules
