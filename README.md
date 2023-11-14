@@ -25,6 +25,7 @@
 |省份|城市|DRG基础版本|更新年度|DRG组数|本地化<br>细分组|测试链接|
 |-|-|-|-|-|-|-|
 |北京|-|CHS-DRG 1.1|2022年|696组|是|[beijing_2022](https://opendrg.github.io?type=beijing_2022)|
+|天津|-|CHS-DRG 1.1|2022年|696组|是|[tianjin_2022](https://opendrg.github.io?type=tianjin_2022)|
 |浙江|-|ZJ-DRG 1.1|2022年|1006组|是|[zhejiang_2022](https://opendrg.github.io?type=zhejiang_2022)|
 |广西|-|CHS-DRG 1.1|2022年|984组|是|[guangxi_2022](https://opendrg.github.io?type=guangxi_2022)|
 |云南|-|CHS-DRG 1.1|2022年|677组|是|[yunnan_2022](https://opendrg.github.io?type=yunnan_2022)|
