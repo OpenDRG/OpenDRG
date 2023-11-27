@@ -84,6 +84,7 @@
 |广东|佛山|CHS-DRG 1.1|2022年|848组|是|[foshan_2022](https://opendrg.github.io?type=foshan_2022)|
 |安徽|合肥|CHS-DRG 1.1|2023年|851组|是|[hefei_2023](https://opendrg.github.io?type=hefei_2023)|
 |安徽|六安|CHS-DRG 1.1|2023年|650组|是|[liuan_2023](https://opendrg.github.io?type=liuan_2023)|
+|安徽|马鞍山|CHS-DRG 1.1|2022年|552组|是|[maanshan_2022](https://opendrg.github.io?type=maanshan_2022)|
 |河北|邯郸|CHS-DRG 1.1|2022年|619组|是|[handan_2022](https://opendrg.github.io?type=handan_2022)|
 |重庆|-|CHS-DRG 1.0|2022年|792组|是|[chongqing_2022](https://opendrg.github.io?type=chongqing_2022)|
 |江西|南昌|CHS-DRG 1.1|2023年|825组|是|[nanchang_2023](https://opendrg.github.io?type=nanchang_2023)|
