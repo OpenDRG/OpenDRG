@@ -35,7 +35,7 @@
 |江苏|苏州|CHS-DRG 1.1|2023年|667组|是|[suzhou_2023](https://opendrg.github.io?type=suzhou_2023)|
 |江苏|泰州|CHS-DRG 1.1|2022年|758组|是|[taizhou_2022](https://opendrg.github.io?type=taizhou_2022)|
 |江苏|无锡|CHS-DRG 1.1|2022年|599组|是|[wuxi_2022](https://opendrg.github.io?type=wuxi_2022)|
-|江苏|常州|CHS-DRG 1.1|2022年|740组|是|[changzhou_2022](https://opendrg.github.io?type=changzhou_2022)|
+|江苏|常州|CHS-DRG 1.1|2022年|740组|是|[changzhou_2022](https://opendrg.github.io?type=changzhou_2022)（2023仅专业版支持）|
 |江苏|南通|CHS-DRG 1.1|2022年|603组|是|[nantong_2022](https://opendrg.github.io?type=nantong_2022)|
 |江苏|徐州|CHS-DRG 1.1|2023年|959组|是|[xuzhou_2023](https://opendrg.github.io?type=xuzhou_2023)|
 |山东|济南|CHS-DRG 1.1|2022年|887组|否|[jinan_2023](https://opendrg.github.io?type=jinan_2023)|
@@ -59,6 +59,7 @@
 |四川|内江|CHS-DRG 1.1|2023年|852组|是|[neijing_2023](https://opendrg.github.io?type=neijiang_2023)|
 |四川|达州|CHS-DRG 1.1|2022年|823组|是|[dazhou_2022](https://opendrg.github.io?type=dazhou_2022)|
 |四川|巴中|CHS-DRG 1.1|2023年|593组|是|[bazhong_2023](https://opendrg.github.io?type=bazhong_2023)|
+|四川|雅安|CHS-DRG 1.1|2021年|665组|是|仅专业版支持|
 |湖北|武汉|CHS-DRG 1.0|2022年|660组|是|[wuhan_2022](https://opendrg.github.io?type=wuhan_2022)|
 |湖南|长沙市<br>株洲市<br>湘潭市<br>衡阳市|CHS-DRG 1.1|2023年|737组|是|[changsha_2023](https://opendrg.github.io?type=changsha_2023)|
 |山西|太原|CHS-DRG 1.1|2023年|593组|是|[taiyuan_2023](https://opendrg.github.io?type=taiyuan_2023)|
@@ -72,10 +73,11 @@
 |新疆|喀什市|CHS-DRG 1.1|2022年|586组|是|[kashi_2022](https://opendrg.github.io?type=kashi_2022)|
 |新疆|生产建设<br>兵团|CHS-DRG 1.1|2022年|635组|是|[xjbt_2022](https://opendrg.github.io?type=xjbt_2022)|
 |新疆|克州|CHS-DRG 1.1|2022年|637组|是|[kezhou_2023](https://opendrg.github.io?type=kezhou_2023)|
-|黑龙江|哈尔滨|CHS-DRG 1.1|2022年|668组|是|[haerbin_2022](https://opendrg.github.io?type=haerbin_2022)|
+|黑龙江|哈尔滨|CHS-DRG 1.1|2022年|668组|是|[haerbin_2022](https://opendrg.github.io?type=haerbin_2022)（2023仅专业版支持）|
 |吉林|长春|CHS-DRG 1.1|2022年|636组|是|[jilin_2022](https://opendrg.github.io?type=changchun_2022)|
 |吉林|吉林|CHS-DRG 1.1|2022年|625组|是|[jilin_2022](https://opendrg.github.io?type=jilin_2022)|
 |辽宁|大连|CHS-DRG 1.1|2022年|646组|是|[dalian_2022](https://opendrg.github.io?type=dalian_2022)|
+|辽宁|丹东|CHS-DRG 1.1|2024年|638组|是|仅专业版支持|
 |河南|安阳|CHS-DRG 1.1|2021年|802组|是|[anyang_2021](https://opendrg.github.io?type=anyang_2021)|
 |河南|漯河|CHS-DRG 1.1|2022年|810组|是|[luohe_2022](https://opendrg.github.io?type=luohe_2022)|
 |河南|周口|CHS-DRG 1.1|2023年|799组|是|[zhoukou_2023](https://opendrg.github.io?type=zhoukou_2023)|
@@ -89,7 +91,7 @@
 |重庆|-|CHS-DRG 1.0|2022年|792组|是|[chongqing_2022](https://opendrg.github.io?type=chongqing_2022)|
 |江西|南昌|CHS-DRG 1.1|2023年|825组|是|[nanchang_2023](https://opendrg.github.io?type=nanchang_2023)|
 
-&emsp;&emsp;沈阳、鞍山、绥化、郴州、晋城、西宁、上饶、大同、自贡、绵阳、攀枝花等地区版本的分组器正在开发，将逐步发布，敬请关注
+&emsp;&emsp;其余地区的分组器正在收集资料和开发，将逐步发布，敬请关注
 
 ## 子项目介绍
 ### DRG_Rules
