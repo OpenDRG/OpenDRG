@@ -24,6 +24,9 @@
 ## 各地方分组方案支持情况
 |省份|城市|DRG基础版本|更新年度|DRG组数|本地化<br>细分组|测试链接|
 |-|-|-|-|-|-|-|
+|-|-|CHS-DRG 1.2|2024年|634组|是|[chs_drg_12](https://opendrg.github.io?type=chs_drg_12)|
+|-|-|CHS-DRG 1.1|2023年|628组|是|[chs_drg_11](https://opendrg.github.io?type=chs_drg_11)|
+|-|-|CHS-DRG 1.0|2022年|618组|是|[chs_drg_10](https://opendrg.github.io?type=chs_drg_10)|
 |北京|-|CHS-DRG 1.1|2022年|696组|是|[beijing_2022](https://opendrg.github.io?type=beijing_2022)|
 |天津|-|CHS-DRG 1.1|2022年|696组|是|[tianjin_2022](https://opendrg.github.io?type=tianjin_2022)|
 |浙江|-|ZJ-DRG 1.1|2022年|1006组|是|[zhejiang_2022](https://opendrg.github.io?type=zhejiang_2022)|
@@ -46,6 +49,7 @@
 |福建|福州|CHS-DRG 1.1|2022年|563组|是|[fuzhou_2022](https://opendrg.github.io?type=fuzhou_2022)|
 |福建|南平|CHS-DRG 1.1|2023年|795组|是|[nanping_2023](https://opendrg.github.io?type=nanping_2023)|
 |福建|泉州|CHS-DRG 1.1|2023年|612组|是|[nanping_2023](https://opendrg.github.io?type=quanzhou_2023)|
+|福建|省医保|CHS-DRG 1.1|2023年|656组|是|[fujian_2023](https://opendrg.github.io?type=fujian_2023)|
 |陕西|西安|CHS-DRG 1.1|2021年|628组|否|[xian_2021](https://opendrg.github.io?type=xian_2021)|
 |陕西|铜川|CHS-DRG 1.1|2023年|628组|否|[tongchuan_2023](https://opendrg.github.io?type=tongchuan_2023)|
 |陕西|咸阳|CHS-DRG 1.1|2023年|628组|否|[xianyang_2023](https://opendrg.github.io?type=xianyang_2023)|
@@ -61,6 +65,7 @@
 |四川|巴中|CHS-DRG 1.1|2023年|593组|是|[bazhong_2023](https://opendrg.github.io?type=bazhong_2023)|
 |四川|自贡|CHS-DRG 1.1|2022年|690组|是|[zigong_2023](https://opendrg.github.io?type=zigong_2022)|
 |四川|雅安|CHS-DRG 1.1|2021年|665组|是|仅专业版支持|
+|四川|绵阳|CHS-DRG 1.1|2023年|776组|是|[mianyang_2023](https://opendrg.github.io?type=mianyang_2023)|
 |四川|省医保|CHS-DRG 1.1|2022年|968组|是|[sichuan_2022](https://opendrg.github.io?type=sichuan_2022)|
 |湖北|武汉|CHS-DRG 1.0|2022年|660组|是|[wuhan_2022](https://opendrg.github.io?type=wuhan_2022)|
 |湖南|长沙市<br>株洲市<br>湘潭市<br>衡阳市|CHS-DRG 1.1|2023年|737组|是|[changsha_2023](https://opendrg.github.io?type=changsha_2023)|
