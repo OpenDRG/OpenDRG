@@ -60,7 +60,7 @@
 |四川|宜宾|CHS-DRG 1.1|2023年|722组|是|[yibin_2023](https://opendrg.github.io?type=yibin_2023)|
 |四川|资阳|CHS-DRG 1.1|2023年|737组|是|[ziyang_2023](https://opendrg.github.io?type=ziyang_2023)|
 |四川|乐山|CHS-DRG 1.1|2023年|664组|是|[leshan_2023](https://opendrg.github.io?type=leshan_2023)|
-|四川|内江|CHS-DRG 1.1|2023年|852组|是|[neijing_2023](https://opendrg.github.io?type=neijiang_2023)|
+|四川|内江|CHS-DRG 1.1|2023年|592组|是|[neijing_2023](https://opendrg.github.io?type=neijiang_2023)|
 |四川|达州|CHS-DRG 1.1|2022年|823组|是|[dazhou_2022](https://opendrg.github.io?type=dazhou_2022)|
 |四川|巴中|CHS-DRG 1.1|2023年|593组|是|[bazhong_2023](https://opendrg.github.io?type=bazhong_2023)|
 |四川|自贡|CHS-DRG 1.1|2022年|690组|是|[zigong_2023](https://opendrg.github.io?type=zigong_2022)|
@@ -85,11 +85,13 @@
 |吉林|吉林|CHS-DRG 1.1|2022年|625组|是|[jilin_2022](https://opendrg.github.io?type=jilin_2022)|
 |辽宁|大连|CHS-DRG 1.1|2022年|646组|是|[dalian_2022](https://opendrg.github.io?type=dalian_2022)|
 |辽宁|丹东|CHS-DRG 1.1|2024年|638组|是|仅专业版支持|
+|辽宁|鞍山|CHS-DRG 1.1|2022年|579组|是|[anshan_2023](https://opendrg.github.io?type=anshan_2023)|
 |河南|安阳|CHS-DRG 1.1|2021年|802组|是|[anyang_2021](https://opendrg.github.io?type=anyang_2021)|
 |河南|漯河|CHS-DRG 1.1|2022年|810组|是|[luohe_2022](https://opendrg.github.io?type=luohe_2022)|
 |河南|周口|CHS-DRG 1.1|2023年|799组|是|[zhoukou_2023](https://opendrg.github.io?type=zhoukou_2023)|
 |河南|开封|CHS-DRG 1.1|2023年|831组|是|[kaifeng_2023](https://opendrg.github.io?type=kaifeng_2023)|
 |河南|驻马店|CHS-DRG 1.1|2023年|615组|是|[zhumadian_2023](https://opendrg.github.io?type=zhumadian_2023)|
+|河南|济源|CHS-DRG 1.1|2023年|632组|是|[jiyuan_2023](https://opendrg.github.io?type=jiyuan_2023)|
 |广东|佛山|CHS-DRG 1.1|2022年|848组|是|[foshan_2022](https://opendrg.github.io?type=foshan_2022)|
 |安徽|合肥|CHS-DRG 1.1|2023年|851组|是|[hefei_2023](https://opendrg.github.io?type=hefei_2023)|
 |安徽|六安|CHS-DRG 1.1|2023年|650组|是|[liuan_2023](https://opendrg.github.io?type=liuan_2023)|
