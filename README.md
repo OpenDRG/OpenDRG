@@ -37,7 +37,7 @@
 |江苏|盐城|CHS-DRG 1.1|2023年|628组|否|[yancheng_2023](https://opendrg.github.io?type=yancheng_2023)|
 |江苏|苏州|CHS-DRG 1.1|2023年|667组|是|[suzhou_2023](https://opendrg.github.io?type=suzhou_2023)|
 |江苏|泰州|CHS-DRG 1.1|2022年|758组|是|[taizhou_2022](https://opendrg.github.io?type=taizhou_2022)|
-|江苏|无锡|CHS-DRG 1.1|2022年|599组|是|[wuxi_2022](https://opendrg.github.io?type=wuxi_2022)|
+|江苏|无锡|CHS-DRG 1.1|2023年|611组|是|[wuxi_2023](https://opendrg.github.io?type=wuxi_2023)|
 |江苏|常州|CHS-DRG 1.1|2022年|740组|是|[changzhou_2022](https://opendrg.github.io?type=changzhou_2022)（2023仅专业版支持）|
 |江苏|南通|CHS-DRG 1.1|2022年|603组|是|[nantong_2022](https://opendrg.github.io?type=nantong_2022)|
 |江苏|徐州|CHS-DRG 1.1|2023年|959组|是|[xuzhou_2023](https://opendrg.github.io?type=xuzhou_2023)|
@@ -57,7 +57,7 @@
 |贵州|六盘水|CHS-DRG 1.1|2022年|628组|否|[chs_drg_11](https://opendrg.github.io?type=chs_drg_11)|
 |贵州|铜仁|CHS-DRG 1.1|2022年|628组|否|[chs_drg_11](https://opendrg.github.io?type=chs_drg_11)|
 |四川|成都|CHS-DRG 1.0|2022年|618组|否|[chengdu_2022](https://opendrg.github.io?type=chengdu_2022)|
-|四川|宜宾|CHS-DRG 1.1|2023年|722组|是|[yibin_2023](https://opendrg.github.io?type=yibin_2023)|
+|四川|宜宾|CHS-DRG 1.1|2023年|749组|是|[yibin_2023](https://opendrg.github.io?type=yibin_2023)|
 |四川|资阳|CHS-DRG 1.1|2023年|737组|是|[ziyang_2023](https://opendrg.github.io?type=ziyang_2023)|
 |四川|乐山|CHS-DRG 1.1|2023年|664组|是|[leshan_2023](https://opendrg.github.io?type=leshan_2023)|
 |四川|内江|CHS-DRG 1.1|2023年|592组|是|[neijing_2023](https://opendrg.github.io?type=neijiang_2023)|
