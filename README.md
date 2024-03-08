@@ -83,8 +83,9 @@
 |新疆|克州|CHS-DRG 1.1|2022年|637组|是|[kezhou_2023](https://opendrg.github.io?type=kezhou_2023)|
 |黑龙江|哈尔滨|CHS-DRG 1.1|2022年|731组|是|仅专业版支持|
 |黑龙江|牡丹江|CHS-DRG 1.1|2023年|593组|是|[mudanjiang_2023](https://opendrg.github.io?type=mudanjiang_2023)|
-|吉林|长春|CHS-DRG 1.1|2022年|636组|是|[jilin_2022](https://opendrg.github.io?type=changchun_2022)|
+|吉林|长春|CHS-DRG 1.1|2022年|636组|是|[changchun_2022](https://opendrg.github.io?type=changchun_2022)|
 |吉林|吉林|CHS-DRG 1.1|2022年|625组|是|[jilin_2022](https://opendrg.github.io?type=jilin_2022)|
+|辽宁|沈阳|CHS-DRG 1.1|2023年|605组|是|[shenyang_2022](https://opendrg.github.io?type=shenyang_2023)|
 |辽宁|大连|CHS-DRG 1.1|2022年|646组|是|[dalian_2022](https://opendrg.github.io?type=dalian_2022)|
 |辽宁|丹东|CHS-DRG 1.1|2024年|638组|是|仅专业版支持|
 |辽宁|鞍山|CHS-DRG 1.1|2022年|579组|是|[anshan_2023](https://opendrg.github.io?type=anshan_2023)|
