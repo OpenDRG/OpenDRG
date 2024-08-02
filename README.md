@@ -108,7 +108,10 @@
 |安徽|六安|CHS-DRG 1.1|2023年|650组|是|[liuan_2023](https://opendrg.github.io?type=liuan_2023)|
 |安徽|马鞍山|CHS-DRG 1.1|2022年|552组|是|[maanshan_2022](https://opendrg.github.io?type=maanshan_2022)|
 |安徽|蚌埠|CHS-DRG 1.1|2023年|641组|是|[bengbu_2023](https://opendrg.github.io?type=bengbu_2023)|
+|安徽|滁州|CHS-DRG 1.1|2024年|723组|否|[chuzhou_2024](https://opendrg.github.io?type=chuzhou_2024)|
+|安徽|池州|CHS-DRG 1.1|2024年|648组|否|[chizhou_2024](https://opendrg.github.io?type=chizhou_2024)|
 |河北|邯郸|CHS-DRG 1.1|2024年|619组|是|[handan_2022](https://opendrg.github.io?type=handan_2024)|
+|河北|定州|CHS-DRG 1.1|2024年|622组|是|[dingzhou_2023](https://opendrg.github.io?type=handan_2023)|
 |江西|南昌|CHS-DRG 1.1|2023年|825组|是|[nanchang_2023](https://opendrg.github.io?type=nanchang_2023)|
 |青海|西宁|CHS-DRG 1.0|2023年|622组|是|[xining_2023](https://opendrg.github.io?type=xining_2023)|
 |贵州|铜仁|CHS-DRG 2.0|2024年|634组|是|[tongren_2024](https://opendrg.github.io?type=tongren_2024)|
