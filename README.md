@@ -42,7 +42,7 @@
 |江苏|泰州|CHS-DRG 1.1|2023年|760组|是|[taizhou_2023](https://opendrg.github.io?type=taizhou_2023)|
 |江苏|无锡|CHS-DRG 1.1|2023年|611组|是|[wuxi_2023](https://opendrg.github.io?type=wuxi_2023)|
 |江苏|常州|CHS-DRG 1.1|2023年|667组|是|[changzhou_2023](https://opendrg.github.io?type=changzhou_2023)|
-|江苏|南通|CHS-DRG 1.1|2022年|603组|是|[nantong_2022](https://opendrg.github.io?type=nantong_2022)|
+|江苏|南通|CHS-DRG 1.1|2024年|630组|是|[nantong_2024](https://opendrg.github.io?type=nantong_2024)|
 |江苏|徐州|CHS-DRG 1.1|2023年|959组|是|[xuzhou_2023](https://opendrg.github.io?type=xuzhou_2023)|
 |山东|济南|CHS-DRG 1.1|2022年|887组|否|[jinan_2023](https://opendrg.github.io?type=jinan_2023)|
 |山东|临沂|CHS-DRG 1.1|2023年|628组|否|[linyi_2023](https://opendrg.github.io?type=linyi_2023)|
@@ -53,7 +53,7 @@
 |福建|南平|CHS-DRG 1.1|2023年|795组|是|[nanping_2023](https://opendrg.github.io?type=nanping_2023)|
 |福建|泉州|CHS-DRG 1.1|2023年|612组|是|[nanping_2023](https://opendrg.github.io?type=quanzhou_2023)|
 |福建|省医保|CHS-DRG 1.1|2023年|656组|是|[fujian_2023](https://opendrg.github.io?type=fujian_2023)|
-|陕西|西安|CHS-DRG 1.1|2021年|628组|否|[xian_2021](https://opendrg.github.io?type=xian_2021)|
+|陕西|西安|CHS-DRG 1.1|2024年|629组|是[xian_2024](https://opendrg.github.io?type=xian_2024)|
 |陕西|铜川|CHS-DRG 1.1|2023年|628组|否|[tongchuan_2023](https://opendrg.github.io?type=tongchuan_2023)|
 |陕西|咸阳|CHS-DRG 1.1|2024年|628组|否|仅专业版支持|
 |陕西|安康|CHS-DRG 1.1|2023年|654组|是|[ankang_2023](https://opendrg.github.io?type=ankang_2023)|
@@ -113,8 +113,9 @@
 |河北|邯郸|CHS-DRG 1.1|2024年|619组|是|[handan_2022](https://opendrg.github.io?type=handan_2024)|
 |河北|定州|CHS-DRG 1.1|2024年|622组|是|[dingzhou_2023](https://opendrg.github.io?type=handan_2023)|
 |江西|南昌|CHS-DRG 1.1|2023年|825组|是|[nanchang_2023](https://opendrg.github.io?type=nanchang_2023)|
-|青海|西宁|CHS-DRG 1.0|2023年|622组|是|[xining_2023](https://opendrg.github.io?type=xining_2023)|
 |贵州|铜仁|CHS-DRG 2.0|2024年|634组|是|[tongren_2024](https://opendrg.github.io?type=tongren_2024)|
+|青海|西宁|CHS-DRG 1.0|2023年|622组|是|[xining_2023](https://opendrg.github.io?type=xining_2023)|
+|青海|全省统一|CHS-DRG 2.0|2024年|723组|是|[qinghai_2024](https://opendrg.github.io?type=qinghai_2024)|
 
 &emsp;&emsp;其余地区的分组器正在收集资料和开发，将逐步发布，敬请关注
 
