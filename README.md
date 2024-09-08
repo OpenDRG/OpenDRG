@@ -28,7 +28,6 @@
 |-|-|CHS-DRG 1.2|2024年|634组|是|[chs_drg_12](https://opendrg.github.io?type=chs_drg_12)|
 |-|-|CHS-DRG 1.1|2023年|628组|是|[chs_drg_11](https://opendrg.github.io?type=chs_drg_11)|
 |-|-|CHS-DRG 1.0|2022年|618组|是|[chs_drg_10](https://opendrg.github.io?type=chs_drg_10)|
-|四川|全省统一|CHS-DRG 1.2|2024年|753组|是|[sichuan_2024](https://opendrg.github.io?type=sichuan_2024)|
 |北京|-|CHS-DRG 1.1|2022年|696组|是|[beijing_2022](https://opendrg.github.io?type=beijing_2022)|
 |上海|-|CHS-DRG 1.1|2023年|1039组|是|[shanghai_2023](https://opendrg.github.io?type=shanghai_2023)|
 |天津|-|CHS-DRG 1.1|2024年|696组|是|仅专业版支持|
@@ -58,7 +57,9 @@
 |陕西|咸阳|CHS-DRG 1.1|2024年|628组|否|仅专业版支持|
 |陕西|安康|CHS-DRG 1.1|2023年|654组|是|[ankang_2023](https://opendrg.github.io?type=ankang_2023)|
 |贵州|六盘水|CHS-DRG 1.1|2022年|628组|否|[chs_drg_11](https://opendrg.github.io?type=chs_drg_11)|
-|贵州|铜仁|CHS-DRG 1.1|2022年|628组|否|[chs_drg_11](https://opendrg.github.io?type=chs_drg_11)|
+|贵州|铜仁|CHS-DRG 2.0|2024年|634组|是|[tongren_2024](https://opendrg.github.io?type=tongren_2024)|
+|四川|全省统一v2|CHS-DRG 2.0|2024年|831组|是|[sichuan_2024_2](https://opendrg.github.io?type=sichuan_2024_2)|
+|四川|全省统一v1|CHS-DRG 1.2|2024年|753组|是|[sichuan_2024](https://opendrg.github.io?type=sichuan_2024)|
 |四川|成都|CHS-DRG 1.0|2022年|618组|否|[chengdu_2022](https://opendrg.github.io?type=chengdu_2022)|
 |四川|宜宾|CHS-DRG 1.1|2023年|749组|是|[yibin_2023](https://opendrg.github.io?type=yibin_2023)|
 |四川|资阳|CHS-DRG 1.1|2023年|737组|是|[ziyang_2023](https://opendrg.github.io?type=ziyang_2023)|
@@ -76,7 +77,9 @@
 |四川|省医保|CHS-DRG 1.0|2022年|968组|是|[sichuan_2022](https://opendrg.github.io?type=sichuan_2022)|
 |湖北|武汉|CHS-DRG 1.0|2024年|660组|是|[wuhan_2024](https://opendrg.github.io?type=wuhan_2024)|
 |湖南|长沙市<br>株洲市<br>湘潭市<br>衡阳市|CHS-DRG 1.1|2023年|737组|是|[changsha_2023](https://opendrg.github.io?type=changsha_2023)|
-|山西|郴州|CHS-DRG 1.1|2024年|734组|是|[taiyuan_2023](https://opendrg.github.io?type=taiyuan_2024)|
+|湖南|郴州|CHS-DRG 1.1|2024年|734组|是|[taiyuan_2023](https://opendrg.github.io?type=taiyuan_2024)|
+|山西|全省统一|CHS-DRG 2.0|2024年|740组|是|[shanxi_2024](https://opendrg.github.io?type=shanxi_2024)|
+|山西|晋城|CHS-DRG 2.0|2024年|740组|是|[jincheng_2024](https://opendrg.github.io?type=jincheng_2024)|
 |山西|太原|CHS-DRG 1.1|2023年|593组|是|[taiyuan_2023](https://opendrg.github.io?type=taiyuan_2023)|
 |山西|长治|CHS-DRG 1.1|2022年|653组|是|[changzhi_2022](https://opendrg.github.io?type=changzhi_2022)|
 |山西|临汾|CHS-DRG 1.1|2022年|645组|是|[linfen_2022](https://opendrg.github.io?type=linfen_2022)|
@@ -113,7 +116,6 @@
 |河北|邯郸|CHS-DRG 1.1|2024年|619组|是|[handan_2022](https://opendrg.github.io?type=handan_2024)|
 |河北|定州|CHS-DRG 1.1|2024年|622组|是|[dingzhou_2023](https://opendrg.github.io?type=handan_2023)|
 |江西|南昌|CHS-DRG 1.1|2023年|825组|是|[nanchang_2023](https://opendrg.github.io?type=nanchang_2023)|
-|贵州|铜仁|CHS-DRG 2.0|2024年|634组|是|[tongren_2024](https://opendrg.github.io?type=tongren_2024)|
 |青海|西宁|CHS-DRG 1.0|2023年|622组|是|[xining_2023](https://opendrg.github.io?type=xining_2023)|
 |青海|全省统一|CHS-DRG 2.0|2024年|723组|是|[qinghai_2024](https://opendrg.github.io?type=qinghai_2024)|
 
