@@ -24,6 +24,7 @@
 ## 各地方分组方案支持情况
 |省份|城市|DRG基础版本|更新年度|DRG组数|本地化<br>细分组|测试链接|
 |-|-|-|-|-|-|-|
+|-|-|CHS-DRG 3.0|2026年|825组|是|[chs_drg_30](https://opendrg.github.io?type=chs_drg_30)|
 |-|-|CHS-DRG 2.0|2024年|634组|是|[chs_drg_20](https://opendrg.github.io?type=chs_drg_20)|
 |-|-|CHS-DRG 1.2|2024年|634组|是|[chs_drg_12](https://opendrg.github.io?type=chs_drg_12)|
 |-|-|CHS-DRG 1.1|2023年|628组|是|[chs_drg_11](https://opendrg.github.io?type=chs_drg_11)|
@@ -35,7 +36,7 @@
 |浙江|-|CHS-DRG 2.0|2024年|953组|是|仅专业版支持|
 |广西|-|CHS-DRG 2.0|2024年|653组|是|仅专业版支持|
 |云南|-|CHS-DRG 2.0|2024年|681组|是|仅专业版支持|
-|江苏|全省统一|CHS-DRG 2.0|2025年|1013组|是|[jiangsu_2025](https://opendrg.github.io?type=jiangsu_2025)|
+|江苏|全省统一|CHS-DRG 2.0|2025年|1013组|是|仅专业版支持|
 |江苏|南京|CHS-DRG 2.0|2024年|801组|是|[nanjing_2024](https://opendrg.github.io?type=nanjing_2024)|
 |山东|全省统一|CHS-DRG 2.0|2024年|675组|是|[shandong_2024](https://opendrg.github.io?type=shandong_2024)|
 |山东|临沂|CHS-DRG 1.1|2023年|628组|否|[linyi_2023](https://opendrg.github.io?type=linyi_2023)|
@@ -51,7 +52,7 @@
 |陕西|安康|CHS-DRG 2.0|2025年|724组|是|[ankang_2025](https://opendrg.github.io?type=ankang_2025)|
 |贵州|六盘水|CHS-DRG 2.0|2025年|634组|否|[chs_drg_20](https://opendrg.github.io?type=chs_drg_20)|
 |贵州|铜仁|CHS-DRG 2.0|2024年|634组|是|[tongren_2024](https://opendrg.github.io?type=tongren_2024)|
-|四川|全省统一|CHS-DRG 2.0|2024年|753组|是|[sichuan_2024](https://opendrg.github.io?type=sichuan_2024)|
+|四川|全省统一|CHS-DRG 2.0|2024年|753组|是|仅专业版支持|
 |湖北|武汉|CHS-DRG 2.0|2024年|773组|是|[hubei_2024](https://opendrg.github.io?type=hubei_2024)|
 |湖南|长沙市<br>株洲市<br>湘潭市<br>衡阳市|CHS-DRG 2.0|2024年|725组|是|[changsha_2024](https://opendrg.github.io?type=changsha_2023)|
 |湖南|郴州|CHS-DRG 2.0|2025年|736组|是|[chenzhou_2024](https://opendrg.github.io?type=chenzhou_2025)|
@@ -109,21 +110,18 @@ https://github.com/OpenDRG/OpenDRG.github.io/archive/refs/heads/main.zip
 
 ## 联系团队
 
-商务合作或售后支持可联系以下成员：
+医院人士加业务交流群请加微信13801750519，邀请入群
+商务合作或售后支持可发邮件至OpenDRG@hotmail.com，或者联系以下成员：
 
-#| 区域 | 成员 | 联系方式 | 备注
----| --- | --- | --- | ---
-1 | 云南 | 王永 | 15974684985 |
-2 | 广西 | 何玉梅  |18978725836 |
-3 | 广东 | 王维鹤  |19066547240 |
-4 | 陕西 | 璞玉  |puyu-co | 微信号
-5 | 河南 | 闫晓伟  |19339880181 |
-6 | 山东 | 段老师  |15020135300 |
-7 | 天津 | 雒老师 |13602127269 |
-8 | 黑龙江 | 宁老师 |13796827827 |
-9 | 辽宁 | 尚利民  |13322267930 |
-10 | 四川 | 陈良 | 15108208024 |
-11 | 甘肃 | 张家玮  |18919032822 |
-12 | 其他地区 | 高文  |13801750519 |
+区域 | 成员 | 联系方式 | 备注
+--- | --- | --- | ---
+云南 | 王永 | 15974684985 |
+广西 | 何玉梅  |18978725836 |
+陕西 | 璞玉  |puyu-co | 微信号
+河南 | 闫晓伟  |19339880181 |
+天津 | 雒老师 |13602127269 |
+黑龙江 | 宁老师 |13796827827 |
+辽宁 | 尚利民  |13322267930 |
+山西 | 曹静怡 | 19934941048 |
+其他地区 | 高文  |13801750519 |
 
-软件技术问题讨论交流，请发邮件至OpenDRG@hotmail.com
