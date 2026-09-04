@@ -110,8 +110,9 @@ https://github.com/OpenDRG/OpenDRG.github.io/archive/refs/heads/main.zip
 
 ## 联系团队
 
-医院人士加业务交流群请加微信13801750519，邀请入群
-商务合作或售后支持可发邮件至OpenDRG@hotmail.com，或者联系以下成员：
+* 医院人士加业务交流群请加微信13801750519，邀请入群
+* 商务合作或售后支持可发邮件至OpenDRG@hotmail.com
+* 或者联系以下成员：
 
 区域 | 成员 | 联系方式 | 备注
 --- | --- | --- | ---
